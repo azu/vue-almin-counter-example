@@ -1,12 +1,13 @@
 # vue-almin-counter-example
 
-> Vue + Almin
+> Vue + Almin counter example
+
+Vue + Almin Performance profile on Chrome DevTool timeline.
 
 ![performance-timeline](./img/performance-timeline.gif)
 
 - Video: https://twitter.com/azu_re/status/910124590814322688
 
-Performance profile on Chrome DevTool timeline.
 
 [Almin](https://github.com/almin/almin "almin") is a state management library.
 Almin can measure UseCase execute, StoreGroup write/read, Store update time.
