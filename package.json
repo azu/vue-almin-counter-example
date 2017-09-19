@@ -12,6 +12,7 @@
     "prettier": "prettier --write '**/*.{js,jsx,ts,tsx,css}'"
   },
   "dependencies": {
+    "almin": "^0.14.0",
     "vue": "^2.3.3",
     "vuex": "^2.4.0"
   },
