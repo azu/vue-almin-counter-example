@@ -2,6 +2,24 @@
 
 > Vue + Almin
 
+![performance-timeline](./img/performance-timeline.gif)
+
+- Video: https://twitter.com/azu_re/status/910124590814322688
+
+Performance profile on Chrome DevTool timeline.
+
+[Almin](https://github.com/almin/almin "almin") is a state management library.
+Almin can measure UseCase execute, StoreGroup write/read, Store update time.
+
+[Vue.js](https://vuejs.org/) is a view library.
+Vue can measure view create and update time.
+
+- [Almin](https://github.com/almin/almin "almin")
+   - [Performance profile · Almin.js](https://almin.js.org/docs/tips/performance-profile.html "Performance profile · Almin.js")
+- [Vue.js](https://vuejs.org/v2/api/#performance "Vue.js")
+   - `performance` option
+
+
 ## Build Setup
 
 ``` bash
