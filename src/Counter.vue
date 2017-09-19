@@ -5,7 +5,7 @@
 </style>
 <template>
     <div id="app">
-        Clicked: {{ count }} times, count is {{ evenOrOdd }}.
+        Clicked: {{ count }} times
         <button @click="increment">+</button>
         <button @click="decrement">-</button>
         <button @click="start">Start Auto ++</button>
